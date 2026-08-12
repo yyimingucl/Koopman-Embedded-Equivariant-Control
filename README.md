@@ -1,3 +1,5 @@
+
+
 Koopman Embedded Equivariant Control
 ===
 
@@ -18,7 +20,7 @@ An efficient way to control systems with unknown nonlinear dynamics is to find a
 ## Install & Dependence
 First, clone the repository:
 ```
-git clone https://github.com/yyimingucl/Koopman-Embed-Equivariant-Control.git
+git clone https://github.com/yyimingucl/Koopman-Embedded-Equivariant-Control.git
 ```
 Then install the dependencies as listed in ```environment.yml``` and activate the environment: 
 ```
